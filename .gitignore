@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+extracted_images/
+output_charts/
+report_charts/
+build_full_report.py
+retail_sales_cleaned_featured.csv
+retail_sales_eda_2000_rows.csv
+retail_sales_project.py
+Retail_Sales_Project_Report.docx
